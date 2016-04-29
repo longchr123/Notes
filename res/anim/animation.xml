@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false" >
+
+    <item
+        android:drawable="@drawable/a7h"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/a7i"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/a7j"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/a7k"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/a7l"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/a7m"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/a7n"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/a7o"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/a7p"
+        android:duration="200"/>
+
+</animation-list>
